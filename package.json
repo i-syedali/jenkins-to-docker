@@ -1,0 +1,13 @@
+{
+  "name": "jenkins-to-docker",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Syed Ali <i.syedali@hotmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
